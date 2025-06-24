@@ -40,6 +40,23 @@ This application was developed by Group 03 as part of a software development pro
 - **Architecture**: Multi-tier with centralized `DataAccess.cs` for shared methods
 - **Version Control**: Git and GitHub
 
-## Installation & Setup
+## Documentation
 
-1. Clone the repository:
+The repository includes full documentation:
+- Project Scope
+- Use-Case Diagram
+- Class Diagram
+- Logical & Physical Data and Process Models
+- SQL Scripts
+- Screenshots of system functionality
+- User Manual
+- Time Breakdown per Team Member
+- GitHub Commit Log
+
+## Contributors
+
+Developed by Group 03:
+- Salim Sofinia
+- Hein du Plessis
+- Lohard Janse van Rensburg
+- Coenri van Rooyen
