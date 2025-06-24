@@ -1,105 +1,45 @@
-Hotel Management System – Silver Oaks Hotel
-About
+# Hotel Management System – Silver Oaks Hotel
 
-The Silver Oaks Hotel Management System is a comprehensive desktop application developed using C# and SQL Server, designed to streamline hotel operations. It enables administrators and receptionists to efficiently manage clients, employees, rooms, bookings, packages, payments, and reports within a secure and user-friendly environment.
+## About
 
-This system was developed as part of a group project by four contributors from North-West University, aiming to implement a fully functional, role-based management system for hotel operations.
-Features
-Functional Requirements
+The Silver Oaks Hotel Management System is a desktop-based application developed using C# (Windows Forms) and SQL Server. It is designed to streamline hotel operations by enabling authorized users to manage bookings, clients, employees, rooms, packages, and generate relevant reports. The system enforces role-based access and supports two user roles: Administrators and Receptionists.
 
-    Access Control: Secure login system with role-based access (Administrator and Receptionist)
+This application was developed by Group 03 as part of a software development project at North-West University.
 
-    Client Management: CRUD operations for client records
+## Features
 
-    Employee Management: CRUD operations for employee records
+### Functional Requirements
 
-    Room and Room Size Management: Update and view room and room size data
+- **Access Control**: Role-based login system (Administrator and Receptionist)
+- **Client Management**: Create, read, update, delete client data
+- **Employee Management**: Create, read, update, delete employee data
+- **Room Management**: Update and view room and room size details
+- **Package Management**: Create, read, update, delete packages
+- **Booking Management**: Create, update, delete, and view bookings
+- **Check-In and Check-Out**: Process guest check-in and check-out activities
+- **Payments**: Confirm and track payments
+- **Reports**:
+  - Bookings per Time Period
+  - Most Popular Package per Time Period
+- **Data Export**: Export report data to CSV files
 
-    Package Management: CRUD operations for packages
+### Non-Functional Requirements
 
-    Booking Management: Create, update, view, and delete bookings
+- User help and guidance features
+- Unique username and password required for all users
+- System capable of storing up to 5000 records before CSV archiving
+- All queries optimized to return results within 3 seconds
+- Role-based access:
+  - **Administrators**: Full access to all features
+  - **Receptionists**: Limited to clients, bookings, payments, check-ins, and check-outs
 
-    Check-in/Check-out: Track client stays
+## Technologies Used
 
-    Payments: Confirm payment status for bookings
+- **Frontend**: C# (Windows Forms)
+- **Backend**: SQL Server
+- **Architecture**: Multi-tier with centralized `DataAccess.cs` for shared methods
+- **Version Control**: Git and GitHub
 
-    Reporting:
+## Installation & Setup
 
-        Bookings per time period
-
-        Most popular packages per time period
-
-    Data Export: Export reports to CSV files
-
-Non-Functional Requirements
-
-    Help functionality for end-users
-
-    Secure, unique usernames and passwords for each system user
-
-    Database capacity to handle up to 5000 records (with annual export encouraged)
-
-    Query performance optimized for <3s response time
-
-    Separate access levels:
-
-        Administrators: Full access to all features
-
-        Receptionists: Restricted access (limited to bookings, check-ins/outs, payments, and client creation)
-
-Technologies Used
-
-    Frontend & Logic: C# (.NET Windows Forms)
-
-    Backend: SQL Server
-
-    Architecture: Layered project structure with a DataAccess class containing reusable CRUD methods
-
-    Version Control: Git & GitHub
-
-Installation & Usage
-
-    Clone the repository.
-
-    Open the solution in Visual Studio.
-
-    Ensure SQL Server is running and the database schema is restored or created using the provided SQL scripts.
-
-    Build and run the application.
-
-    Log in using sample credentials (or register via the database).
-
-Refer to the included User Manual for detailed guidance.
-Documentation
-
-Included in the repository:
-
-    Project Scope
-
-    Use-Case and Class Diagrams
-
-    Logical & Physical Data and Process Models
-
-    SQL Scripts for Table Creation and Data Manipulation
-
-    Screenshots of UI and Generated Reports
-
-    User Manual
-
-    Team Activity Log with Time Breakdown
-
-    GitHub Version Control Report
-
-Authors
-
-This system was developed by Group 03:
-
-    Hein du Plessis
-
-    Lohard Janse van Rensburg
-
-    Salim Sofinia
-
-    Coenri van Rooyen
-
-Let me know if you'd like it tailored more for a portfolio presentation, academic submission, or deployment instructions.
+1. Clone the repository:
