@@ -1,0 +1,3 @@
+Room_ID,Room_Number,Room_Available,Size_ID
+1,200,True,1
+2,201,False,4

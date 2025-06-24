@@ -1,0 +1,65 @@
+C:\Users\heind\OneDrive - North-West University\Documents\NWU\SilverOaksHotel\SilverOaksHotel\SilverOaksHotel\bin\Debug\SilverOaksHotel.exe.config
+C:\Users\heind\OneDrive - North-West University\Documents\NWU\SilverOaksHotel\SilverOaksHotel\SilverOaksHotel\bin\Debug\SilverOaksHotel.exe
+C:\Users\heind\OneDrive - North-West University\Documents\NWU\SilverOaksHotel\SilverOaksHotel\SilverOaksHotel\bin\Debug\SilverOaksHotel.pdb
+C:\Users\heind\OneDrive - North-West University\Documents\NWU\SilverOaksHotel\SilverOaksHotel\SilverOaksHotel\obj\Debug\SilverOaksHotel.csproj.AssemblyReference.cache
+C:\Users\heind\OneDrive - North-West University\Documents\NWU\SilverOaksHotel\SilverOaksHotel\SilverOaksHotel\obj\Debug\SilverOaksHotel.Properties.Resources.resources
+C:\Users\heind\OneDrive - North-West University\Documents\NWU\SilverOaksHotel\SilverOaksHotel\SilverOaksHotel\obj\Debug\SilverOaksHotel.csproj.GenerateResource.cache
+C:\Users\heind\OneDrive - North-West University\Documents\NWU\SilverOaksHotel\SilverOaksHotel\SilverOaksHotel\obj\Debug\SilverOaksHotel.csproj.CoreCompileInputs.cache
+C:\Users\heind\OneDrive - North-West University\Documents\NWU\SilverOaksHotel\SilverOaksHotel\SilverOaksHotel\obj\Debug\SilverOaksHotel.exe
+C:\Users\heind\OneDrive - North-West University\Documents\NWU\SilverOaksHotel\SilverOaksHotel\SilverOaksHotel\obj\Debug\SilverOaksHotel.pdb
+C:\Users\heind\OneDrive - North-West University\Documents\NWU\SilverOaksHotel\SilverOaksHotel\SilverOaksHotel\obj\Debug\SilverOaksHotel.HOME.resources
+C:\Users\heind\OneDrive - North-West University\Documents\NWU\SilverOaksHotel\SilverOaksHotel\SilverOaksHotel\obj\Debug\SilverOaksHotel.BOOKING.resources
+C:\Users\heind\OneDrive - North-West University\Documents\NWU\SilverOaksHotel\SilverOaksHotel\SilverOaksHotel\obj\Debug\SilverOaksHotel.ADMIN.resources
+C:\Users\heind\OneDrive - North-West University\Documents\NWU\SilverOaksHotel\SilverOaksHotel\SilverOaksHotel\obj\Debug\SilverOaksHotel.MaintainEmployees.resources
+C:\Users\heind\OneDrive - North-West University\Documents\NWU\SilverOaksHotel\SilverOaksHotel\SilverOaksHotel\obj\Debug\SilverOaksHotel.payment.resources
+C:\Users\heind\OneDrive - North-West University\Documents\NWU\SilverOaksHotel\SilverOaksHotel\SilverOaksHotel\obj\Debug\SilverOaksHotel.ExportToCSV.resources
+C:\Users\heind\OneDrive - North-West University\Documents\NWU\SilverOaksHotel\SilverOaksHotel\SilverOaksHotel\obj\Debug\SilverOaksHotel.MaintainClients.resources
+C:\Users\heind\OneDrive - North-West University\Documents\NWU\SilverOaksHotel\SilverOaksHotel\SilverOaksHotel\obj\Debug\SilverOaksHotel.MaintainPackages.resources
+C:\Users\heind\OneDrive - North-West University\Documents\NWU\SilverOaksHotel\SilverOaksHotel\SilverOaksHotel\obj\Debug\SilverOaksHotel.Reporting.resources
+C:\Users\coenr\Desktop\CMPG213\CMPG223 PROJECT\SilverOaksHotel\SilverOaksHotel\bin\Debug\SilverOaksHotel.exe.config
+C:\Users\coenr\Desktop\CMPG213\CMPG223 PROJECT\SilverOaksHotel\SilverOaksHotel\bin\Debug\SilverOaksHotel.exe
+C:\Users\coenr\Desktop\CMPG213\CMPG223 PROJECT\SilverOaksHotel\SilverOaksHotel\bin\Debug\SilverOaksHotel.pdb
+C:\Users\coenr\Desktop\CMPG213\CMPG223 PROJECT\SilverOaksHotel\SilverOaksHotel\obj\Debug\SilverOaksHotel.csproj.AssemblyReference.cache
+C:\Users\coenr\Desktop\CMPG213\CMPG223 PROJECT\SilverOaksHotel\SilverOaksHotel\obj\Debug\SilverOaksHotel.ExportToCSV.resources
+C:\Users\coenr\Desktop\CMPG213\CMPG223 PROJECT\SilverOaksHotel\SilverOaksHotel\obj\Debug\SilverOaksHotel.MaintainClients.resources
+C:\Users\coenr\Desktop\CMPG213\CMPG223 PROJECT\SilverOaksHotel\SilverOaksHotel\obj\Debug\SilverOaksHotel.MaintainEmployees.resources
+C:\Users\coenr\Desktop\CMPG213\CMPG223 PROJECT\SilverOaksHotel\SilverOaksHotel\obj\Debug\SilverOaksHotel.MaintainPackages.resources
+C:\Users\coenr\Desktop\CMPG213\CMPG223 PROJECT\SilverOaksHotel\SilverOaksHotel\obj\Debug\SilverOaksHotel.Properties.Resources.resources
+C:\Users\coenr\Desktop\CMPG213\CMPG223 PROJECT\SilverOaksHotel\SilverOaksHotel\obj\Debug\SilverOaksHotel.Reporting.resources
+C:\Users\coenr\Desktop\CMPG213\CMPG223 PROJECT\SilverOaksHotel\SilverOaksHotel\obj\Debug\SilverOaksHotel.csproj.GenerateResource.cache
+C:\Users\coenr\Desktop\CMPG213\CMPG223 PROJECT\SilverOaksHotel\SilverOaksHotel\obj\Debug\SilverOaksHotel.csproj.CoreCompileInputs.cache
+C:\Users\coenr\Desktop\CMPG213\CMPG223 PROJECT\SilverOaksHotel\SilverOaksHotel\obj\Debug\SilverOaksHotel.exe
+C:\Users\coenr\Desktop\CMPG213\CMPG223 PROJECT\SilverOaksHotel\SilverOaksHotel\obj\Debug\SilverOaksHotel.pdb
+C:\Users\salim\OneDrive\Documents\GitHub\github-cmpg223-project\SilverOaksHotel\SilverOaksHotel\bin\Debug\SilverOaksHotel.exe.config
+C:\Users\salim\OneDrive\Documents\GitHub\github-cmpg223-project\SilverOaksHotel\SilverOaksHotel\bin\Debug\SilverOaksHotel.exe
+C:\Users\salim\OneDrive\Documents\GitHub\github-cmpg223-project\SilverOaksHotel\SilverOaksHotel\bin\Debug\SilverOaksHotel.pdb
+C:\Users\salim\OneDrive\Documents\GitHub\github-cmpg223-project\SilverOaksHotel\SilverOaksHotel\obj\Debug\SilverOaksHotel.csproj.AssemblyReference.cache
+C:\Users\salim\OneDrive\Documents\GitHub\github-cmpg223-project\SilverOaksHotel\SilverOaksHotel\obj\Debug\SilverOaksHotel.ExportToCSV.resources
+C:\Users\salim\OneDrive\Documents\GitHub\github-cmpg223-project\SilverOaksHotel\SilverOaksHotel\obj\Debug\SilverOaksHotel.Login.resources
+C:\Users\salim\OneDrive\Documents\GitHub\github-cmpg223-project\SilverOaksHotel\SilverOaksHotel\obj\Debug\SilverOaksHotel.MaintainClients.resources
+C:\Users\salim\OneDrive\Documents\GitHub\github-cmpg223-project\SilverOaksHotel\SilverOaksHotel\obj\Debug\SilverOaksHotel.MaintainEmployees.resources
+C:\Users\salim\OneDrive\Documents\GitHub\github-cmpg223-project\SilverOaksHotel\SilverOaksHotel\obj\Debug\SilverOaksHotel.MaintainPackages.resources
+C:\Users\salim\OneDrive\Documents\GitHub\github-cmpg223-project\SilverOaksHotel\SilverOaksHotel\obj\Debug\SilverOaksHotel.Properties.Resources.resources
+C:\Users\salim\OneDrive\Documents\GitHub\github-cmpg223-project\SilverOaksHotel\SilverOaksHotel\obj\Debug\SilverOaksHotel.Reporting.resources
+C:\Users\salim\OneDrive\Documents\GitHub\github-cmpg223-project\SilverOaksHotel\SilverOaksHotel\obj\Debug\SilverOaksHotel.csproj.GenerateResource.cache
+C:\Users\salim\OneDrive\Documents\GitHub\github-cmpg223-project\SilverOaksHotel\SilverOaksHotel\obj\Debug\SilverOaksHotel.csproj.CoreCompileInputs.cache
+C:\Users\salim\OneDrive\Documents\GitHub\github-cmpg223-project\SilverOaksHotel\SilverOaksHotel\obj\Debug\SilverOaksHotel.exe
+C:\Users\salim\OneDrive\Documents\GitHub\github-cmpg223-project\SilverOaksHotel\SilverOaksHotel\obj\Debug\SilverOaksHotel.pdb
+C:\Users\salim\OneDrive\Documents\GitHub\github-cmpg223-project\SilverOaksHotel\SilverOaksHotel\obj\Debug\SilverOaksHotel.MaintainBookings.resources
+C:\Users\salim\OneDrive\Documents\GitHub\github-cmpg223-project\SilverOaksHotel\SilverOaksHotel\obj\Debug\SilverOaksHotel.AdministratorHome.resources
+C:\Users\salim\OneDrive\Documents\GitHub\github-cmpg223-project\SilverOaksHotel\SilverOaksHotel\bin\Debug\DataAccess.exe
+C:\Users\salim\OneDrive\Documents\GitHub\github-cmpg223-project\SilverOaksHotel\SilverOaksHotel\bin\Debug\DataAccess.pdb
+C:\Users\salim\OneDrive\Documents\GitHub\github-cmpg223-project\SilverOaksHotel\SilverOaksHotel\bin\Debug\DataAccess.exe.config
+C:\Users\salim\OneDrive\Documents\GitHub\github-cmpg223-project\SilverOaksHotel\SilverOaksHotel\obj\Debug\SilverOaksHotel.csproj.CopyComplete
+C:\Users\coenr\Desktop\CMPG213\CMPG223 PROJECT\SilverOaksHotel\SilverOaksHotel\bin\Debug\DataAccess.exe
+C:\Users\coenr\Desktop\CMPG213\CMPG223 PROJECT\SilverOaksHotel\SilverOaksHotel\bin\Debug\DataAccess.pdb
+C:\Users\coenr\Desktop\CMPG213\CMPG223 PROJECT\SilverOaksHotel\SilverOaksHotel\bin\Debug\DataAccess.exe.config
+C:\Users\coenr\Desktop\CMPG213\CMPG223 PROJECT\SilverOaksHotel\SilverOaksHotel\obj\Debug\SilverOaksHotel.Login.resources
+C:\Users\coenr\Desktop\CMPG213\CMPG223 PROJECT\SilverOaksHotel\SilverOaksHotel\obj\Debug\SilverOaksHotel.MaintainBookings.resources
+C:\Users\coenr\Desktop\CMPG213\CMPG223 PROJECT\SilverOaksHotel\SilverOaksHotel\obj\Debug\SilverOaksHotel.AdministratorHome.resources
+C:\Users\coenr\Desktop\CMPG213\CMPG223 PROJECT\SilverOaksHotel\SilverOaksHotel\obj\Debug\SilverOaksHotel.csproj.CopyComplete
+C:\Users\salim\OneDrive\Documents\GitHub\github-cmpg223-project\SilverOaksHotel\SilverOaksHotel\bin\Debug\DBSilverOaksHotel.mdf
+C:\Users\salim\OneDrive\Documents\GitHub\github-cmpg223-project\SilverOaksHotel\SilverOaksHotel\bin\Debug\DBSilverOaksHotel_log.ldf
+C:\Users\salim\OneDrive\Documents\GitHub\github-cmpg223-project\SilverOaksHotel\SilverOaksHotel\obj\Debug\SilverOaksHotel.SilverOaksHotelApplication.resources
+C:\Users\salim\OneDrive\Documents\GitHub\github-cmpg223-project\SilverOaksHotel\SilverOaksHotel\obj\Debug\SilverOaksHotel.MaintainRooms.resources
+C:\Users\salim\OneDrive\Documents\GitHub\github-cmpg223-project\SilverOaksHotel\SilverOaksHotel\obj\Debug\SilverOaksHotel.MaintainRoomSize.resources
